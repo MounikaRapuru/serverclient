@@ -1,1 +1,2 @@
 This is test sample file.
+This is test for reset1.

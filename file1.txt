@@ -1,3 +1,2 @@
 This is a sample file 1
 This is test for reset
-This is for revert
