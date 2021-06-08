@@ -11,3 +11,4 @@ printf("Area is %d\n",area);
 printf("Perimeter is %d",peri);
 getch();
 }
+This file is updated.
