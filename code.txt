@@ -1,2 +1,2 @@
 This is a sample file 2
-This is test reset 2
+This is the revert test
